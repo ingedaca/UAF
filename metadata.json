@@ -1,0 +1,5 @@
+{
+  "name": "UAF Manager Console",
+  "description": "A Unified Analytic Framework management dashboard for centralizing data governance, configuring information models, and monitoring execution engines.",
+  "requestFramePermissions": []
+}
